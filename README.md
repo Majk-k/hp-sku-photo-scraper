@@ -11,7 +11,7 @@ Python CLI tool for downloading product images for HP SKUs from HP Shop search r
 
 ## Project structure
 ```
-📦hp-sku-photo-scraper
+📦 hp-sku-photo-scraper
 ├─ .gitignore
 ├─ README.md
 ├─ data
