@@ -1,0 +1,6 @@
+# Please add one SKU per row, use # to exclude
+40Q51A
+6GX01F
+CF400A
+CF401A
+CE285A

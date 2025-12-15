@@ -1,0 +1,35 @@
+# virtualenv
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# packaging / build
+build/
+dist/
+*.egg-info/
+
+# notebooks
+.ipynb_checkpoints/
+
+# outputs
+images/
+hp_printer_images*/
+*.png
+
+# selenium / browser
+selenium-debug.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# test / temp
+*.log
+.tmp/
