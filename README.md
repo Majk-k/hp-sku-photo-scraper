@@ -33,11 +33,24 @@ Python CLI tool for downloading product images for HP SKUs from HP Shop search r
 - ChromeDriver is downloaded automatically via webdriver-manager
 
 ## Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/Majk-k/hp-sku-photo-scraper.git
+cd hp-sku-photo-scraper
+```
+
+Create virtual environment:
 ```bash
 python -m venv .venv
 # Windows
 .venv\Scripts\activate
+# Linux / macOS
+source .venv/bin/activate
+```
 
+Install the project as a local package with CLI:
+```bash
 pip install -U pip
 pip install .
 ```
